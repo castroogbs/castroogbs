@@ -15,22 +15,21 @@
 
 <br>
 
-<div align="center">
+<table>
+    <tr>
+        <td>Stats</td>
+        <td>Language and Tools</td>
+    </tr>
+    <tr>
+        <td>
+        <div align="center">
   <a href="https://github.com/castroogbs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=castroogbs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castroogbs&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/castro-s-gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="castro-s-gabriel" height="30" width="40" /></a>
-<a href="https://discord.gg/4240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4240" height="30" width="40" /></a>
-</p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<table style="width:100%"  align="center">
+        </td>
+        <td>
+            <table style="width:100%"  align="center">
     <tr>
         <td colspan="2">Front-end</td>
     </tr>
@@ -126,6 +125,14 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+      alt="php"
+      width="40"
+      height="40"
+    />
+  </a>
+<a href="https://www.slimframework.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://user-images.githubusercontent.com/50057372/193067706-cbfc3ed1-ec6a-4800-8c28-06400054efd0.png"
       alt="php"
       width="40"
       height="40"
@@ -288,6 +295,9 @@
     />
   </a>
 </p>
+        </td>
+    </tr>
+</table>
         </td>
     </tr>
 </table>
