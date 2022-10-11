@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently "working" as a **Java subject monitor student at FATEC Santos**
 
-- 🌱 I’m currently learning **React Native, Haskell, AWS**
+- 🌱 I’m currently learning **React Native, Haskell, Node.JS**
 
 - 💬 Ask me about **PHP, JavaScript, SQL**
 
