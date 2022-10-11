@@ -222,10 +222,11 @@
         </td>
         <td>
             <p align="left">
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+
+  <a href="https://www.aws.amazon.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
-      alt="bash"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
+      alt="Amazon Web Services"
       width="40"
       height="40"
     />
