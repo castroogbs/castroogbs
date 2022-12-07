@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences by visiting my Linkedin profile
 
-- ⚡ Fun fact: **I don't drink coffee hehe**
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
