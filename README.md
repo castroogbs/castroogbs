@@ -3,9 +3,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **Node.JS**
+- 🌱 I’m currently studing **Microservices Architecture**
 
-- 💬 Ask me about **PHP, JavaScript, SQL**
+- 💬 Ask me about **PHP, Java/Spring, Node.ts/Express, SQL, Functional Programming**
 
 - 📄 Know about my experiences by visiting my Linkedin profile
 
